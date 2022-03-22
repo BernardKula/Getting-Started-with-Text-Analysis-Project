@@ -6,7 +6,7 @@ customers. This would help in shortening the amount of time that it takes to act
 feedback.<br />
 
 ## Problem Statement<br />
-Your task for this project will be to create a model that can predict whether the sentiment<br />
+Your task for this project will be to create a model that can predict whether the sentiment
 of a tweet is positive or negative. The desired accuracy of your model is 70%.<br />
 Below are the text processing steps that you will be required to perform in this project:<br />
 ##### ● Text Cleaning/ Text Processing<br />
